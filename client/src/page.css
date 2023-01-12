@@ -1,0 +1,18 @@
+.message{
+    box-sizing: border-box;
+    background-color: rgb(184, 243, 254);
+}
+.contact{
+    background-color: rgb(204, 253, 237);
+}
+.input{
+    border-radius: 10px;
+    width: 60%;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+.btn{
+    width: 10%;
+    text-align: center;
+    margin: auto;
+}
